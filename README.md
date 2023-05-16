@@ -35,6 +35,7 @@ If you wish to customize the formatting rules used by Autopep8, you can configur
 - [ ] Save the changes to apply the new formatting rules.
 
 ### Step 5: Experiment and Observe
+
 Now it's time to experiment with automatic code formatting. Try writing some Python code in your file, intentionally introducing formatting issues like incorrect indentation, inconsistent spacing, or missing line breaks. After writing the code, follow Step 3 to format the document and observe how Autopep8 automatically corrects the formatting issues.
 
 ## Submission
